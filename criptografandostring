@@ -1,0 +1,16 @@
+import java.util.scanner;
+
+public class m 
+{
+    public static void main (string []args){
+        scanner entrada = new Scanner (system in);
+        System.out.print ("informe o texto a ser criptografado");
+        string texto = entrada.nextInt ();
+        System.out.print ("Informe a chave de deslocamento");
+        Int chave = entrada.nextInt ();
+        Sring textoCifrado = new string ();
+        int tamanhoTexto = texto.length ();
+        int c = 0;
+        while (c<tamanhoTexto)
+    }
+}a
